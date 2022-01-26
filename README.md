@@ -1,0 +1,2 @@
+# chatbot_concierge
+Developed a serverless, microservice-driven web application for restaurant recommendations based on user preferences using REST APIs, messaging technologies like SNS &amp; SQS, and cloud services like AWS Lambda, API Gateway and Lex. · Performed data scraping on Yelp to store data in AWS DynamoDB &amp; push useful data to ElasticSearch using python scripts. · Additionally, DynamoDB is used to store intermediary state information (caching) to provide returning users with recommendations w.r.t their previous conversation.
